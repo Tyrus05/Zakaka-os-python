@@ -1,1 +1,1 @@
-Un petit os fentre sur python avec se script je voudrait que will fassse une interafec avec ce terminal de merde
+Zakaka est un simulateur d'un os cree un python zakaka est juste un terminal le bute est de trasnphormer ce terminal en os complet avec interafece
